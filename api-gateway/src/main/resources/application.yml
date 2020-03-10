@@ -1,0 +1,8 @@
+spring:
+  profiles:
+    active: dev
+  application:
+    name: Api Gateway
+
+server:
+  port: 8080
